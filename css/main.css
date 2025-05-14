@@ -1,0 +1,38 @@
+body{
+    background-color: #fef3ff;
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* navigation */
+#main-nav{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(250, 219, 249);
+    color: rgb(0, 102, 204);
+}
+
+#main-nav li{
+    display: inline-block;
+}
+
+#main-nav ul{ 
+    text-align: center;
+}
+
+#main-nav ul li{
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+}
+
+/* hover state */
+#main-nav li:hover{
+    background-color: white;
+    color: rgb(255, 133, 251);
+}
