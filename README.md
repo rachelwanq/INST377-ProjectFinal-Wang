@@ -10,4 +10,5 @@ TARGET BROWSERS
 Desktop: This includes engines such as Chrome, Edge, FireFox and Safari.
 
 DEVELOPER MANUAL
+Link: docs/Developer_Manual.md
 
