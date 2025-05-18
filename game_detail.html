@@ -2,7 +2,6 @@
     <head>
         <title>Game Details</title>
         <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-        <script defer src = "javascript/main.js"></script>
         <script defer src = "javascript/game_details.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     </head>
@@ -21,6 +20,13 @@
             </ul>
         </nav>
 
+        <section id="details">
+            <h2 id="gameTitle"></h2>
+            <img id="gameImage">
+            <p id="gameSummary"></p>
+            <button id="saveFavorite">Save to Favorites</button>
+            <canvas id="priceChart"></canvas>
+        </section>
 
     </body>
 
