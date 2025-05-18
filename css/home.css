@@ -2,3 +2,17 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#favorites{
+    margin-top: 100px;
+}
